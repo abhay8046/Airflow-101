@@ -1,0 +1,37 @@
+[2024-09-02T01:54:38.227+0000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2024-09-02T01:54:38.266+0000] {taskinstance.py:2603} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: example_python_operator.external_python manual__2024-09-02T01:45:14.618466+00:00 [queued]>
+[2024-09-02T01:54:38.274+0000] {taskinstance.py:2603} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: example_python_operator.external_python manual__2024-09-02T01:45:14.618466+00:00 [queued]>
+[2024-09-02T01:54:38.276+0000] {taskinstance.py:2856} INFO - Starting attempt 1 of 1
+[2024-09-02T01:54:38.287+0000] {taskinstance.py:2879} INFO - Executing <Task(ExternalPythonOperator): external_python> on 2024-09-02 01:45:14.618466+00:00
+[2024-09-02T01:54:38.297+0000] {logging_mixin.py:190} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:70 DeprecationWarning: This process (pid=244) is multi-threaded, use of fork() may lead to deadlocks in the child.
+[2024-09-02T01:54:38.300+0000] {standard_task_runner.py:72} INFO - Started process 273 to run task
+[2024-09-02T01:54:38.304+0000] {standard_task_runner.py:104} INFO - Running: ['***', 'tasks', 'run', 'example_python_operator', 'external_python', 'manual__2024-09-02T01:45:14.618466+00:00', '--job-id', '15', '--raw', '--subdir', '/home/***/.local/lib/python3.12/site-packages/***/example_dags/example_python_operator.py', '--cfg-path', '/tmp/tmpcpfpu24e']
+[2024-09-02T01:54:38.306+0000] {standard_task_runner.py:105} INFO - Job 15: Subtask external_python
+[2024-09-02T01:54:38.373+0000] {task_command.py:467} INFO - Running <TaskInstance: example_python_operator.external_python manual__2024-09-02T01:45:14.618466+00:00 [running]> on host 453e90e1ba4d
+[2024-09-02T01:54:38.448+0000] {taskinstance.py:3122} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='example_python_operator' AIRFLOW_CTX_TASK_ID='external_python' AIRFLOW_CTX_EXECUTION_DATE='2024-09-02T01:45:14.618466+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2024-09-02T01:45:14.618466+00:00'
+[2024-09-02T01:54:38.451+0000] {logging_mixin.py:190} INFO - Task instance is in running state
+[2024-09-02T01:54:38.452+0000] {logging_mixin.py:190} INFO -  Previous state of the Task instance: queued
+[2024-09-02T01:54:38.455+0000] {logging_mixin.py:190} INFO - Current task name:external_python state:running start_date:2024-09-02 01:54:38.268084+00:00
+[2024-09-02T01:54:38.457+0000] {logging_mixin.py:190} INFO - Dag name:example_python_operator and current dag run status:running
+[2024-09-02T01:54:38.459+0000] {taskinstance.py:731} INFO - ::endgroup::
+[2024-09-02T01:54:38.825+0000] {baseoperator.py:405} WARNING - ExternalPythonOperator.execute cannot be called outside TaskInstance!
+[2024-09-02T01:54:38.911+0000] {process_utils.py:186} INFO - Executing cmd: /home/***/.local/bin/python /tmp/venv-callqufwr4o0/script.py /tmp/venv-callqufwr4o0/script.in /tmp/venv-callqufwr4o0/script.out /tmp/venv-callqufwr4o0/string_args.txt /tmp/venv-callqufwr4o0/termination.log
+[2024-09-02T01:54:38.924+0000] {process_utils.py:190} INFO - Output:
+[2024-09-02T01:54:42.663+0000] {process_utils.py:194} INFO - /home/***/.local/lib/python3.12/site-packages/***/plugins_manager.py:30 DeprecationWarning: 'cgitb' is deprecated and slated for removal in Python 3.13
+[2024-09-02T01:54:43.633+0000] {process_utils.py:194} INFO - Running task via /home/***/.local/bin/python
+[2024-09-02T01:54:43.635+0000] {process_utils.py:194} INFO - Sleeping
+[2024-09-02T01:54:43.636+0000] {process_utils.py:194} INFO - Please wait...
+[2024-09-02T01:54:44.634+0000] {process_utils.py:194} INFO - Please wait...
+[2024-09-02T01:54:45.635+0000] {process_utils.py:194} INFO - Please wait...
+[2024-09-02T01:54:46.636+0000] {process_utils.py:194} INFO - Please wait...
+[2024-09-02T01:54:47.702+0000] {process_utils.py:194} INFO - Finished
+[2024-09-02T01:54:48.400+0000] {python.py:240} INFO - Done. Returned value was: None
+[2024-09-02T01:54:48.419+0000] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2024-09-02T01:54:48.422+0000] {taskinstance.py:352} INFO - Marking task as SUCCESS. dag_id=example_python_operator, task_id=external_python, run_id=manual__2024-09-02T01:45:14.618466+00:00, execution_date=20240902T014514, start_date=20240902T015438, end_date=20240902T015448
+[2024-09-02T01:54:48.431+0000] {logging_mixin.py:190} INFO - Task instance in success state
+[2024-09-02T01:54:48.433+0000] {logging_mixin.py:190} INFO -  Previous state of the Task instance: running
+[2024-09-02T01:54:48.434+0000] {logging_mixin.py:190} INFO - Dag name:example_python_operator queued_at:2024-09-02 01:45:14.645637+00:00
+[2024-09-02T01:54:48.435+0000] {logging_mixin.py:190} INFO - Task hostname:453e90e1ba4d operator:ExternalPythonOperator
+[2024-09-02T01:54:48.473+0000] {local_task_job_runner.py:261} INFO - Task exited with return code 0
+[2024-09-02T01:54:48.498+0000] {taskinstance.py:3891} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2024-09-02T01:54:48.501+0000] {local_task_job_runner.py:240} INFO - ::endgroup::

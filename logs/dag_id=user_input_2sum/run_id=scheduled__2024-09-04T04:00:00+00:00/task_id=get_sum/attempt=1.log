@@ -1,0 +1,20 @@
+[2024-09-04T05:26:44.777+0000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2024-09-04T05:26:44.794+0000] {taskinstance.py:2603} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: user_input_2sum.get_sum scheduled__2024-09-04T04:00:00+00:00 [queued]>
+[2024-09-04T05:26:44.800+0000] {taskinstance.py:2603} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: user_input_2sum.get_sum scheduled__2024-09-04T04:00:00+00:00 [queued]>
+[2024-09-04T05:26:44.801+0000] {taskinstance.py:2856} INFO - Starting attempt 1 of 1
+[2024-09-04T05:26:44.813+0000] {taskinstance.py:2879} INFO - Executing <Task(PythonOperator): get_sum> on 2024-09-04 04:00:00+00:00
+[2024-09-04T05:26:44.823+0000] {standard_task_runner.py:104} INFO - Running: ['***', 'tasks', 'run', 'user_input_2sum', 'get_sum', 'scheduled__2024-09-04T04:00:00+00:00', '--job-id', '72', '--raw', '--subdir', 'DAGS_FOLDER/python_operator_dag_with_userinput.py', '--cfg-path', '/tmp/tmpdqq_qdwo']
+[2024-09-04T05:26:44.826+0000] {standard_task_runner.py:105} INFO - Job 72: Subtask get_sum
+[2024-09-04T05:26:44.831+0000] {logging_mixin.py:190} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:70 DeprecationWarning: This process (pid=39494) is multi-threaded, use of fork() may lead to deadlocks in the child.
+[2024-09-04T05:26:44.832+0000] {standard_task_runner.py:72} INFO - Started process 39497 to run task
+[2024-09-04T05:26:44.872+0000] {task_command.py:467} INFO - Running <TaskInstance: user_input_2sum.get_sum scheduled__2024-09-04T04:00:00+00:00 [running]> on host cedbab6b7256
+[2024-09-04T05:26:45.008+0000] {taskinstance.py:3122} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='abhay' AIRFLOW_CTX_DAG_ID='user_input_2sum' AIRFLOW_CTX_TASK_ID='get_sum' AIRFLOW_CTX_EXECUTION_DATE='2024-09-04T04:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2024-09-04T04:00:00+00:00'
+[2024-09-04T05:26:45.010+0000] {taskinstance.py:731} INFO - ::endgroup::
+[2024-09-04T05:26:45.028+0000] {logging_mixin.py:190} INFO - Received num1: 0, num2: 0
+[2024-09-04T05:26:45.030+0000] {logging_mixin.py:190} INFO - Sum: 00
+[2024-09-04T05:26:45.031+0000] {python.py:240} INFO - Done. Returned value was: None
+[2024-09-04T05:26:45.039+0000] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2024-09-04T05:26:45.040+0000] {taskinstance.py:352} INFO - Marking task as SUCCESS. dag_id=user_input_2sum, task_id=get_sum, run_id=scheduled__2024-09-04T04:00:00+00:00, execution_date=20240904T040000, start_date=20240904T052644, end_date=20240904T052645
+[2024-09-04T05:26:45.092+0000] {local_task_job_runner.py:261} INFO - Task exited with return code 0
+[2024-09-04T05:26:45.108+0000] {taskinstance.py:3891} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2024-09-04T05:26:45.111+0000] {local_task_job_runner.py:240} INFO - ::endgroup::
