@@ -1498,3 +1498,93 @@
 [2024-09-09T01:16:46.400+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:16:46.400+0000] {dag.py:3211} INFO - Sync 1 DAGs
 [2024-09-09T01:16:46.419+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:16:46.419+0000] {dag.py:4138} INFO - Setting next_dagrun for python_operator_dag_v1 to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
 [2024-09-09T01:16:46.432+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/create_dag_with_python_operator.py took 0.114 seconds
+[2024-09-09T01:17:17.253+0000] {processor.py:186} INFO - Started process (PID=26030) to work on /opt/airflow/dags/create_dag_with_python_operator.py
+[2024-09-09T01:17:17.257+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/create_dag_with_python_operator.py for tasks to queue
+[2024-09-09T01:17:17.260+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:17:17.260+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/create_dag_with_python_operator.py
+[2024-09-09T01:17:17.277+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:17:17.276+0000] {baseoperator.py:140} WARNING - Implicitly converting 'retries' from '2' to int
+[2024-09-09T01:17:17.279+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:17:17.279+0000] {baseoperator.py:140} WARNING - Implicitly converting 'retries' from '2' to int
+[2024-09-09T01:17:17.280+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:17:17.280+0000] {baseoperator.py:140} WARNING - Implicitly converting 'retries' from '2' to int
+[2024-09-09T01:17:17.285+0000] {processor.py:925} INFO - DAG(s) 'python_operator_dag_v1' retrieved from /opt/airflow/dags/create_dag_with_python_operator.py
+[2024-09-09T01:17:17.311+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:17:17.310+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T01:17:17.332+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:17:17.331+0000] {dag.py:4138} INFO - Setting next_dagrun for python_operator_dag_v1 to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T01:17:17.350+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/create_dag_with_python_operator.py took 0.110 seconds
+[2024-09-09T01:17:47.481+0000] {processor.py:186} INFO - Started process (PID=26066) to work on /opt/airflow/dags/create_dag_with_python_operator.py
+[2024-09-09T01:17:47.483+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/create_dag_with_python_operator.py for tasks to queue
+[2024-09-09T01:17:47.486+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:17:47.486+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/create_dag_with_python_operator.py
+[2024-09-09T01:17:47.496+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:17:47.496+0000] {baseoperator.py:140} WARNING - Implicitly converting 'retries' from '2' to int
+[2024-09-09T01:17:47.499+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:17:47.499+0000] {baseoperator.py:140} WARNING - Implicitly converting 'retries' from '2' to int
+[2024-09-09T01:17:47.500+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:17:47.500+0000] {baseoperator.py:140} WARNING - Implicitly converting 'retries' from '2' to int
+[2024-09-09T01:17:47.505+0000] {processor.py:925} INFO - DAG(s) 'python_operator_dag_v1' retrieved from /opt/airflow/dags/create_dag_with_python_operator.py
+[2024-09-09T01:17:47.526+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:17:47.526+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T01:17:47.549+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:17:47.549+0000] {dag.py:4138} INFO - Setting next_dagrun for python_operator_dag_v1 to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T01:17:47.562+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/create_dag_with_python_operator.py took 0.090 seconds
+[2024-09-09T01:18:18.551+0000] {processor.py:186} INFO - Started process (PID=26102) to work on /opt/airflow/dags/create_dag_with_python_operator.py
+[2024-09-09T01:18:18.554+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/create_dag_with_python_operator.py for tasks to queue
+[2024-09-09T01:18:18.557+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:18:18.556+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/create_dag_with_python_operator.py
+[2024-09-09T01:18:18.570+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:18:18.569+0000] {baseoperator.py:140} WARNING - Implicitly converting 'retries' from '2' to int
+[2024-09-09T01:18:18.572+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:18:18.572+0000] {baseoperator.py:140} WARNING - Implicitly converting 'retries' from '2' to int
+[2024-09-09T01:18:18.573+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:18:18.573+0000] {baseoperator.py:140} WARNING - Implicitly converting 'retries' from '2' to int
+[2024-09-09T01:18:18.584+0000] {processor.py:925} INFO - DAG(s) 'python_operator_dag_v1' retrieved from /opt/airflow/dags/create_dag_with_python_operator.py
+[2024-09-09T01:18:18.639+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:18:18.638+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T01:18:18.663+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:18:18.662+0000] {dag.py:4138} INFO - Setting next_dagrun for python_operator_dag_v1 to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T01:18:18.676+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/create_dag_with_python_operator.py took 0.150 seconds
+[2024-09-09T01:18:49.420+0000] {processor.py:186} INFO - Started process (PID=26138) to work on /opt/airflow/dags/create_dag_with_python_operator.py
+[2024-09-09T01:18:49.423+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/create_dag_with_python_operator.py for tasks to queue
+[2024-09-09T01:18:49.428+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:18:49.427+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/create_dag_with_python_operator.py
+[2024-09-09T01:18:49.468+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:18:49.468+0000] {baseoperator.py:140} WARNING - Implicitly converting 'retries' from '2' to int
+[2024-09-09T01:18:49.471+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:18:49.470+0000] {baseoperator.py:140} WARNING - Implicitly converting 'retries' from '2' to int
+[2024-09-09T01:18:49.472+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:18:49.472+0000] {baseoperator.py:140} WARNING - Implicitly converting 'retries' from '2' to int
+[2024-09-09T01:18:49.477+0000] {processor.py:925} INFO - DAG(s) 'python_operator_dag_v1' retrieved from /opt/airflow/dags/create_dag_with_python_operator.py
+[2024-09-09T01:18:49.543+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:18:49.542+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T01:18:49.561+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:18:49.561+0000] {dag.py:4138} INFO - Setting next_dagrun for python_operator_dag_v1 to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T01:18:49.576+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/create_dag_with_python_operator.py took 0.163 seconds
+[2024-09-09T01:19:20.548+0000] {processor.py:186} INFO - Started process (PID=26174) to work on /opt/airflow/dags/create_dag_with_python_operator.py
+[2024-09-09T01:19:20.551+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/create_dag_with_python_operator.py for tasks to queue
+[2024-09-09T01:19:20.554+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:19:20.553+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/create_dag_with_python_operator.py
+[2024-09-09T01:19:20.564+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:19:20.564+0000] {baseoperator.py:140} WARNING - Implicitly converting 'retries' from '2' to int
+[2024-09-09T01:19:20.567+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:19:20.567+0000] {baseoperator.py:140} WARNING - Implicitly converting 'retries' from '2' to int
+[2024-09-09T01:19:20.568+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:19:20.568+0000] {baseoperator.py:140} WARNING - Implicitly converting 'retries' from '2' to int
+[2024-09-09T01:19:20.583+0000] {processor.py:925} INFO - DAG(s) 'python_operator_dag_v1' retrieved from /opt/airflow/dags/create_dag_with_python_operator.py
+[2024-09-09T01:19:20.620+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:19:20.620+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T01:19:20.651+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:19:20.650+0000] {dag.py:4138} INFO - Setting next_dagrun for python_operator_dag_v1 to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T01:19:20.663+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/create_dag_with_python_operator.py took 0.132 seconds
+[2024-09-09T01:19:50.782+0000] {processor.py:186} INFO - Started process (PID=26210) to work on /opt/airflow/dags/create_dag_with_python_operator.py
+[2024-09-09T01:19:50.785+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/create_dag_with_python_operator.py for tasks to queue
+[2024-09-09T01:19:50.788+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:19:50.787+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/create_dag_with_python_operator.py
+[2024-09-09T01:19:50.813+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:19:50.813+0000] {baseoperator.py:140} WARNING - Implicitly converting 'retries' from '2' to int
+[2024-09-09T01:19:50.816+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:19:50.815+0000] {baseoperator.py:140} WARNING - Implicitly converting 'retries' from '2' to int
+[2024-09-09T01:19:50.817+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:19:50.817+0000] {baseoperator.py:140} WARNING - Implicitly converting 'retries' from '2' to int
+[2024-09-09T01:19:50.823+0000] {processor.py:925} INFO - DAG(s) 'python_operator_dag_v1' retrieved from /opt/airflow/dags/create_dag_with_python_operator.py
+[2024-09-09T01:19:50.858+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:19:50.858+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T01:19:50.891+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:19:50.890+0000] {dag.py:4138} INFO - Setting next_dagrun for python_operator_dag_v1 to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T01:19:50.904+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/create_dag_with_python_operator.py took 0.130 seconds
+[2024-09-09T01:20:21.156+0000] {processor.py:186} INFO - Started process (PID=26246) to work on /opt/airflow/dags/create_dag_with_python_operator.py
+[2024-09-09T01:20:21.157+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/create_dag_with_python_operator.py for tasks to queue
+[2024-09-09T01:20:21.160+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:20:21.159+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/create_dag_with_python_operator.py
+[2024-09-09T01:20:21.168+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:20:21.168+0000] {baseoperator.py:140} WARNING - Implicitly converting 'retries' from '2' to int
+[2024-09-09T01:20:21.171+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:20:21.171+0000] {baseoperator.py:140} WARNING - Implicitly converting 'retries' from '2' to int
+[2024-09-09T01:20:21.172+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:20:21.172+0000] {baseoperator.py:140} WARNING - Implicitly converting 'retries' from '2' to int
+[2024-09-09T01:20:21.177+0000] {processor.py:925} INFO - DAG(s) 'python_operator_dag_v1' retrieved from /opt/airflow/dags/create_dag_with_python_operator.py
+[2024-09-09T01:20:21.205+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:20:21.205+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T01:20:21.223+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:20:21.223+0000] {dag.py:4138} INFO - Setting next_dagrun for python_operator_dag_v1 to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T01:20:21.236+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/create_dag_with_python_operator.py took 0.085 seconds
+[2024-09-09T01:20:51.463+0000] {processor.py:186} INFO - Started process (PID=26282) to work on /opt/airflow/dags/create_dag_with_python_operator.py
+[2024-09-09T01:20:51.466+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/create_dag_with_python_operator.py for tasks to queue
+[2024-09-09T01:20:51.468+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:20:51.467+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/create_dag_with_python_operator.py
+[2024-09-09T01:20:51.476+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:20:51.476+0000] {baseoperator.py:140} WARNING - Implicitly converting 'retries' from '2' to int
+[2024-09-09T01:20:51.478+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:20:51.478+0000] {baseoperator.py:140} WARNING - Implicitly converting 'retries' from '2' to int
+[2024-09-09T01:20:51.479+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:20:51.479+0000] {baseoperator.py:140} WARNING - Implicitly converting 'retries' from '2' to int
+[2024-09-09T01:20:51.483+0000] {processor.py:925} INFO - DAG(s) 'python_operator_dag_v1' retrieved from /opt/airflow/dags/create_dag_with_python_operator.py
+[2024-09-09T01:20:51.531+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:20:51.531+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T01:20:51.552+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:20:51.552+0000] {dag.py:4138} INFO - Setting next_dagrun for python_operator_dag_v1 to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T01:20:51.569+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/create_dag_with_python_operator.py took 0.112 seconds
+[2024-09-09T01:21:21.695+0000] {processor.py:186} INFO - Started process (PID=26318) to work on /opt/airflow/dags/create_dag_with_python_operator.py
+[2024-09-09T01:21:21.697+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/create_dag_with_python_operator.py for tasks to queue
+[2024-09-09T01:21:21.700+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:21:21.700+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/create_dag_with_python_operator.py
+[2024-09-09T01:21:21.709+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:21:21.709+0000] {baseoperator.py:140} WARNING - Implicitly converting 'retries' from '2' to int
+[2024-09-09T01:21:21.711+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:21:21.711+0000] {baseoperator.py:140} WARNING - Implicitly converting 'retries' from '2' to int
+[2024-09-09T01:21:21.712+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:21:21.712+0000] {baseoperator.py:140} WARNING - Implicitly converting 'retries' from '2' to int
+[2024-09-09T01:21:21.716+0000] {processor.py:925} INFO - DAG(s) 'python_operator_dag_v1' retrieved from /opt/airflow/dags/create_dag_with_python_operator.py
+[2024-09-09T01:21:21.733+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:21:21.733+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T01:21:21.750+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:21:21.750+0000] {dag.py:4138} INFO - Setting next_dagrun for python_operator_dag_v1 to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T01:21:21.761+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/create_dag_with_python_operator.py took 0.076 seconds
