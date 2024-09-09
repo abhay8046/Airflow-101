@@ -1,0 +1,994 @@
+[2024-09-09T00:00:11.125+0000] {processor.py:186} INFO - Started process (PID=20573) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:00:11.128+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:00:11.133+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:00:11.131+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:00:11.165+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:00:11.216+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:00:11.216+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:00:11.236+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:00:11.236+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:00:11.337+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.224 seconds
+[2024-09-09T00:00:41.584+0000] {processor.py:186} INFO - Started process (PID=20609) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:00:41.588+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:00:41.591+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:00:41.590+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:00:41.630+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:00:41.669+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:00:41.669+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:00:41.687+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:00:41.687+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:00:41.699+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.124 seconds
+[2024-09-09T00:01:12.854+0000] {processor.py:186} INFO - Started process (PID=20645) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:01:12.866+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:01:12.878+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:01:12.875+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:01:12.905+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:01:12.984+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:01:12.984+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:01:13.032+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:01:13.032+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:01:13.123+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.294 seconds
+[2024-09-09T00:01:43.336+0000] {processor.py:186} INFO - Started process (PID=20682) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:01:43.340+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:01:43.345+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:01:43.344+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:01:43.390+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:01:43.497+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:01:43.496+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:01:43.535+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:01:43.534+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:01:43.551+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.228 seconds
+[2024-09-09T00:02:13.948+0000] {processor.py:186} INFO - Started process (PID=20718) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:02:13.955+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:02:13.962+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:02:13.960+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:02:14.006+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:02:14.054+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:02:14.054+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:02:14.074+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:02:14.074+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:02:14.091+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.167 seconds
+[2024-09-09T00:02:44.184+0000] {processor.py:186} INFO - Started process (PID=20754) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:02:44.188+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:02:44.192+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:02:44.191+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:02:44.224+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:02:44.326+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:02:44.326+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:02:44.358+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:02:44.358+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:02:44.374+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.201 seconds
+[2024-09-09T00:03:14.763+0000] {processor.py:186} INFO - Started process (PID=20791) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:03:14.774+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:03:14.778+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:03:14.777+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:03:14.810+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:03:14.883+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:03:14.883+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:03:14.915+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:03:14.914+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:03:14.929+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.280 seconds
+[2024-09-09T00:03:45.039+0000] {processor.py:186} INFO - Started process (PID=20828) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:03:45.042+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:03:45.045+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:03:45.044+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:03:45.076+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:03:45.122+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:03:45.122+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:03:45.141+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:03:45.141+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:03:45.164+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.137 seconds
+[2024-09-09T00:04:16.079+0000] {processor.py:186} INFO - Started process (PID=20865) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:04:16.091+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:04:16.100+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:04:16.098+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:04:16.121+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:04:16.163+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:04:16.163+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:04:16.182+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:04:16.182+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:04:16.197+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.142 seconds
+[2024-09-09T00:04:46.949+0000] {processor.py:186} INFO - Started process (PID=20901) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:04:46.954+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:04:46.960+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:04:46.958+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:04:46.996+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:04:47.055+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:04:47.055+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:04:47.083+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:04:47.083+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:04:47.099+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.166 seconds
+[2024-09-09T00:05:17.956+0000] {processor.py:186} INFO - Started process (PID=20937) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:05:17.960+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:05:17.963+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:05:17.962+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:05:17.998+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:05:18.031+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:05:18.030+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:05:18.051+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:05:18.051+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:05:18.078+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.132 seconds
+[2024-09-09T00:05:48.402+0000] {processor.py:186} INFO - Started process (PID=20973) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:05:48.408+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:05:48.412+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:05:48.411+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:05:48.461+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:05:48.545+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:05:48.544+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:05:48.566+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:05:48.566+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:05:48.581+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.191 seconds
+[2024-09-09T00:06:19.065+0000] {processor.py:186} INFO - Started process (PID=21009) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:06:19.068+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:06:19.071+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:06:19.071+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:06:19.110+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:06:19.161+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:06:19.161+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:06:19.181+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:06:19.181+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:06:19.195+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.145 seconds
+[2024-09-09T00:06:49.553+0000] {processor.py:186} INFO - Started process (PID=21045) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:06:49.557+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:06:49.560+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:06:49.560+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:06:49.595+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:06:49.655+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:06:49.655+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:06:49.677+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:06:49.677+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:06:49.691+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.150 seconds
+[2024-09-09T00:07:19.865+0000] {processor.py:186} INFO - Started process (PID=21081) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:07:19.878+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:07:19.883+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:07:19.882+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:07:19.904+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:07:19.952+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:07:19.951+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:07:19.983+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:07:19.983+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:07:19.996+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.150 seconds
+[2024-09-09T00:07:50.759+0000] {processor.py:186} INFO - Started process (PID=21118) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:07:50.776+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:07:50.780+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:07:50.779+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:07:50.807+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:07:50.857+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:07:50.856+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:07:50.893+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:07:50.893+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:07:50.907+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.165 seconds
+[2024-09-09T00:08:21.946+0000] {processor.py:186} INFO - Started process (PID=21154) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:08:21.950+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:08:21.959+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:08:21.957+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:08:21.986+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:08:22.034+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:08:22.033+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:08:22.068+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:08:22.068+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:08:22.082+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.150 seconds
+[2024-09-09T00:08:52.365+0000] {processor.py:186} INFO - Started process (PID=21190) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:08:52.369+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:08:52.373+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:08:52.372+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:08:52.418+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:08:52.475+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:08:52.475+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:08:52.498+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:08:52.498+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:08:52.512+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.160 seconds
+[2024-09-09T00:09:22.763+0000] {processor.py:186} INFO - Started process (PID=21227) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:09:22.771+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:09:22.785+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:09:22.782+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:09:22.809+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:09:22.856+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:09:22.856+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:09:22.876+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:09:22.876+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:09:22.899+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.153 seconds
+[2024-09-09T00:09:53.120+0000] {processor.py:186} INFO - Started process (PID=21263) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:09:53.124+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:09:53.133+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:09:53.129+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:09:53.164+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:09:53.213+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:09:53.213+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:09:53.404+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:09:53.403+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:09:53.437+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.332 seconds
+[2024-09-09T00:10:23.848+0000] {processor.py:186} INFO - Started process (PID=21298) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:10:23.853+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:10:23.857+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:10:23.856+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:10:23.891+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:10:23.942+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:10:23.942+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:10:23.982+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:10:23.982+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:10:23.998+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.167 seconds
+[2024-09-09T00:10:54.783+0000] {processor.py:186} INFO - Started process (PID=21334) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:10:54.788+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:10:54.791+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:10:54.791+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:10:54.835+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:10:54.867+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:10:54.866+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:10:54.885+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:10:54.885+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:10:54.907+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.151 seconds
+[2024-09-09T00:11:25.226+0000] {processor.py:186} INFO - Started process (PID=21376) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:11:25.229+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:11:25.233+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:11:25.232+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:11:25.364+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:11:25.407+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:11:25.407+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:11:25.426+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:11:25.426+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:11:25.452+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.236 seconds
+[2024-09-09T00:11:55.715+0000] {processor.py:186} INFO - Started process (PID=21412) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:11:55.719+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:11:55.724+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:11:55.723+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:11:55.745+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:11:55.802+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:11:55.802+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:11:55.822+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:11:55.822+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:11:55.835+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.129 seconds
+[2024-09-09T00:12:26.006+0000] {processor.py:186} INFO - Started process (PID=21448) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:12:26.010+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:12:26.016+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:12:26.014+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:12:26.032+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:12:26.056+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:12:26.055+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:12:26.072+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:12:26.072+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:12:26.084+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.094 seconds
+[2024-09-09T00:12:56.817+0000] {processor.py:186} INFO - Started process (PID=21484) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:12:56.823+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:12:56.829+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:12:56.829+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:12:56.847+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:12:56.899+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:12:56.899+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:12:56.927+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:12:56.926+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:12:56.939+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.138 seconds
+[2024-09-09T00:13:27.121+0000] {processor.py:186} INFO - Started process (PID=21521) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:13:27.125+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:13:27.128+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:13:27.127+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:13:27.169+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:13:27.202+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:13:27.202+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:13:27.271+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:13:27.271+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:13:27.287+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.178 seconds
+[2024-09-09T00:13:58.070+0000] {processor.py:186} INFO - Started process (PID=21557) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:13:58.074+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:13:58.078+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:13:58.077+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:13:58.119+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:13:58.160+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:13:58.160+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:13:58.179+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:13:58.179+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:13:58.192+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.133 seconds
+[2024-09-09T00:14:29.287+0000] {processor.py:186} INFO - Started process (PID=21593) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:14:29.307+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:14:29.374+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:14:29.373+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:14:29.423+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:14:29.574+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:14:29.573+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:14:29.607+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:14:29.607+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:14:29.623+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.405 seconds
+[2024-09-09T00:15:00.920+0000] {processor.py:186} INFO - Started process (PID=21629) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:15:00.950+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:15:00.961+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:15:00.959+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:15:01.102+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:15:01.227+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:15:01.224+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:15:01.506+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:15:01.501+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:15:01.751+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.955 seconds
+[2024-09-09T00:15:32.359+0000] {processor.py:186} INFO - Started process (PID=21665) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:15:32.363+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:15:32.366+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:15:32.366+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:15:32.401+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:15:32.470+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:15:32.470+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:15:32.494+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:15:32.494+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:15:32.524+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.195 seconds
+[2024-09-09T00:16:03.084+0000] {processor.py:186} INFO - Started process (PID=21701) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:16:03.087+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:16:03.089+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:16:03.089+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:16:03.124+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:16:03.170+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:16:03.170+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:16:03.193+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:16:03.193+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:16:03.206+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.138 seconds
+[2024-09-09T00:16:33.462+0000] {processor.py:186} INFO - Started process (PID=21737) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:16:33.469+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:16:33.479+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:16:33.477+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:16:33.503+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:16:33.562+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:16:33.561+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:16:33.585+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:16:33.585+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:16:33.608+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.169 seconds
+[2024-09-09T00:17:04.060+0000] {processor.py:186} INFO - Started process (PID=21773) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:17:04.064+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:17:04.081+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:17:04.077+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:17:04.124+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:17:04.176+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:17:04.175+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:17:04.199+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:17:04.198+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:17:04.219+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.199 seconds
+[2024-09-09T00:17:34.562+0000] {processor.py:186} INFO - Started process (PID=21812) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:17:34.564+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:17:34.566+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:17:34.566+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:17:34.583+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:17:34.617+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:17:34.617+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:17:34.637+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:17:34.637+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:17:34.650+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.112 seconds
+[2024-09-09T00:18:05.644+0000] {processor.py:186} INFO - Started process (PID=21845) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:18:05.659+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:18:05.662+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:18:05.661+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:18:05.688+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:18:05.723+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:18:05.722+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:18:05.755+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:18:05.755+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:18:05.768+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.151 seconds
+[2024-09-09T00:18:36.723+0000] {processor.py:186} INFO - Started process (PID=21882) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:18:36.729+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:18:36.737+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:18:36.736+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:18:36.759+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:18:36.805+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:18:36.805+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:18:36.832+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:18:36.832+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:18:36.845+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.146 seconds
+[2024-09-09T00:19:07.674+0000] {processor.py:186} INFO - Started process (PID=21918) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:19:07.680+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:19:07.683+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:19:07.682+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:19:07.707+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:19:07.757+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:19:07.756+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:19:07.784+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:19:07.784+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:19:07.797+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.156 seconds
+[2024-09-09T00:19:37.960+0000] {processor.py:186} INFO - Started process (PID=21954) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:19:37.967+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:19:37.969+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:19:37.969+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:19:38.003+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:19:38.045+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:19:38.045+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:19:38.065+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:19:38.065+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:19:38.078+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.141 seconds
+[2024-09-09T00:20:09.044+0000] {processor.py:186} INFO - Started process (PID=21990) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:20:09.048+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:20:09.050+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:20:09.050+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:20:09.090+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:20:09.136+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:20:09.135+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:20:09.155+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:20:09.155+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:20:09.168+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.151 seconds
+[2024-09-09T00:20:39.560+0000] {processor.py:186} INFO - Started process (PID=22026) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:20:39.564+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:20:39.568+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:20:39.567+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:20:39.604+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:20:39.653+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:20:39.653+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:20:39.674+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:20:39.673+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:20:39.693+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.158 seconds
+[2024-09-09T00:21:10.545+0000] {processor.py:186} INFO - Started process (PID=22065) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:21:10.549+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:21:10.554+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:21:10.553+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:21:10.595+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:21:10.644+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:21:10.644+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:21:10.669+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:21:10.669+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:21:10.689+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.165 seconds
+[2024-09-09T00:21:41.629+0000] {processor.py:186} INFO - Started process (PID=22101) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:21:41.635+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:21:41.638+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:21:41.638+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:21:41.657+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:21:41.689+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:21:41.689+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:21:41.720+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:21:41.719+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:21:41.732+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.123 seconds
+[2024-09-09T00:22:12.797+0000] {processor.py:186} INFO - Started process (PID=22137) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:22:12.802+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:22:12.807+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:22:12.805+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:22:12.827+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:22:12.876+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:22:12.876+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:22:12.896+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:22:12.896+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:22:12.909+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.137 seconds
+[2024-09-09T00:22:43.010+0000] {processor.py:186} INFO - Started process (PID=22173) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:22:43.013+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:22:43.016+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:22:43.015+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:22:43.033+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:22:43.076+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:22:43.075+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:22:43.099+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:22:43.099+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:22:43.116+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.122 seconds
+[2024-09-09T00:23:14.131+0000] {processor.py:186} INFO - Started process (PID=22209) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:23:14.135+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:23:14.142+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:23:14.141+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:23:14.206+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:23:14.571+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:23:14.570+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:23:14.618+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:23:14.618+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:23:14.653+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.534 seconds
+[2024-09-09T00:23:45.574+0000] {processor.py:186} INFO - Started process (PID=22245) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:23:45.580+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:23:45.592+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:23:45.586+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:23:45.624+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:23:45.663+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:23:45.663+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:23:45.685+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:23:45.685+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:23:45.699+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.136 seconds
+[2024-09-09T00:24:15.881+0000] {processor.py:186} INFO - Started process (PID=22281) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:24:15.884+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:24:15.887+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:24:15.886+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:24:15.923+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:24:15.970+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:24:15.969+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:24:15.990+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:24:15.990+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:24:16.003+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.141 seconds
+[2024-09-09T00:24:47.123+0000] {processor.py:186} INFO - Started process (PID=22317) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:24:47.127+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:24:47.130+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:24:47.130+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:24:47.166+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:24:47.241+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:24:47.241+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:24:47.263+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:24:47.263+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:24:47.278+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.197 seconds
+[2024-09-09T00:25:18.135+0000] {processor.py:186} INFO - Started process (PID=22353) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:25:18.140+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:25:18.142+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:25:18.142+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:25:18.676+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:25:18.762+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:25:18.761+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:25:18.801+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:25:18.801+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:25:18.828+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.716 seconds
+[2024-09-09T00:25:49.739+0000] {processor.py:186} INFO - Started process (PID=22389) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:25:49.742+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:25:49.745+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:25:49.744+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:25:49.778+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:25:49.830+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:25:49.829+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:25:49.855+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:25:49.854+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:25:49.868+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.165 seconds
+[2024-09-09T00:26:20.031+0000] {processor.py:186} INFO - Started process (PID=22425) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:26:20.036+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:26:20.039+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:26:20.039+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:26:20.081+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:26:20.127+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:26:20.127+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:26:20.144+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:26:20.144+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:26:20.157+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.161 seconds
+[2024-09-09T00:26:51.075+0000] {processor.py:186} INFO - Started process (PID=22461) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:26:51.080+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:26:51.085+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:26:51.084+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:26:51.119+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:26:51.165+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:26:51.165+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:26:51.196+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:26:51.196+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:26:51.209+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.155 seconds
+[2024-09-09T00:27:22.153+0000] {processor.py:186} INFO - Started process (PID=22497) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:27:22.202+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:27:22.278+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:27:22.278+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:27:22.332+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:27:22.392+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:27:22.391+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:27:22.455+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:27:22.454+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:27:22.473+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.352 seconds
+[2024-09-09T00:27:53.441+0000] {processor.py:186} INFO - Started process (PID=22534) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:27:53.445+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:27:53.450+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:27:53.449+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:27:53.488+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:27:53.526+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:27:53.526+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:27:53.548+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:27:53.548+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:27:53.561+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.134 seconds
+[2024-09-09T00:28:23.708+0000] {processor.py:186} INFO - Started process (PID=22570) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:28:23.712+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:28:23.719+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:28:23.717+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:28:23.766+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:28:23.818+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:28:23.818+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:28:23.845+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:28:23.845+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:28:23.859+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.176 seconds
+[2024-09-09T00:28:54.537+0000] {processor.py:186} INFO - Started process (PID=22606) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:28:54.543+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:28:54.547+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:28:54.546+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:28:54.594+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:28:54.640+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:28:54.640+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:28:54.661+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:28:54.661+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:28:54.674+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.158 seconds
+[2024-09-09T00:29:24.826+0000] {processor.py:186} INFO - Started process (PID=22642) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:29:24.829+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:29:24.832+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:29:24.831+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:29:24.874+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:29:24.924+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:29:24.924+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:29:24.945+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:29:24.945+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:29:24.958+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.144 seconds
+[2024-09-09T00:29:55.131+0000] {processor.py:186} INFO - Started process (PID=22681) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:29:55.133+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:29:55.136+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:29:55.135+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:29:55.164+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:29:55.273+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:29:55.273+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:29:55.294+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:29:55.294+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:29:55.311+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.189 seconds
+[2024-09-09T00:30:26.438+0000] {processor.py:186} INFO - Started process (PID=22714) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:30:26.450+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:30:26.458+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:30:26.457+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:30:26.479+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:30:26.527+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:30:26.527+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:30:26.548+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:30:26.548+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:30:26.562+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.142 seconds
+[2024-09-09T00:30:57.237+0000] {processor.py:186} INFO - Started process (PID=22750) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:30:57.249+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:30:57.256+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:30:57.255+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:30:57.278+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:30:57.329+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:30:57.329+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:30:57.352+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:30:57.352+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:30:57.366+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.169 seconds
+[2024-09-09T00:31:27.525+0000] {processor.py:186} INFO - Started process (PID=22786) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:31:27.529+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:31:27.532+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:31:27.531+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:31:27.573+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:31:27.617+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:31:27.617+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:31:27.646+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:31:27.646+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:31:27.661+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.149 seconds
+[2024-09-09T00:31:58.438+0000] {processor.py:186} INFO - Started process (PID=22822) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:31:58.442+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:31:58.445+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:31:58.445+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:31:58.481+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:31:58.531+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:31:58.531+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:31:58.556+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:31:58.556+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:31:58.586+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.165 seconds
+[2024-09-09T00:32:28.895+0000] {processor.py:186} INFO - Started process (PID=22858) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:32:28.901+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:32:28.909+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:32:28.908+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:32:28.937+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:32:28.966+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:32:28.966+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:32:28.986+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:32:28.986+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:32:29.004+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.132 seconds
+[2024-09-09T00:32:59.731+0000] {processor.py:186} INFO - Started process (PID=22894) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:32:59.736+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:32:59.738+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:32:59.738+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:32:59.764+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:32:59.811+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:32:59.810+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:32:59.852+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:32:59.851+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:32:59.866+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.144 seconds
+[2024-09-09T00:33:30.107+0000] {processor.py:186} INFO - Started process (PID=22930) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:33:30.110+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:33:30.113+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:33:30.112+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:33:30.148+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:33:30.227+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:33:30.227+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:33:30.248+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:33:30.248+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:33:30.261+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.181 seconds
+[2024-09-09T00:34:01.057+0000] {processor.py:186} INFO - Started process (PID=22966) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:34:01.060+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:34:01.063+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:34:01.063+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:34:01.099+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:34:01.146+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:34:01.146+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:34:01.204+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:34:01.203+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:34:01.218+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.183 seconds
+[2024-09-09T00:34:31.391+0000] {processor.py:186} INFO - Started process (PID=23002) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:34:31.395+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:34:31.400+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:34:31.399+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:34:31.433+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:34:31.500+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:34:31.500+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:34:31.521+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:34:31.521+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:34:31.533+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.177 seconds
+[2024-09-09T00:35:02.312+0000] {processor.py:186} INFO - Started process (PID=23038) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:35:02.315+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:35:02.318+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:35:02.317+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:35:02.352+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:35:02.395+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:35:02.395+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:35:02.417+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:35:02.417+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:35:02.438+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.142 seconds
+[2024-09-09T00:35:33.349+0000] {processor.py:186} INFO - Started process (PID=23074) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:35:33.414+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:35:33.433+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:35:33.432+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:35:33.491+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:35:33.538+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:35:33.538+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:35:33.560+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:35:33.560+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:35:33.573+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.256 seconds
+[2024-09-09T00:36:04.500+0000] {processor.py:186} INFO - Started process (PID=23115) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:36:04.503+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:36:04.506+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:36:04.505+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:36:04.549+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:36:04.583+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:36:04.583+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:36:04.616+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:36:04.616+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:36:04.630+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.141 seconds
+[2024-09-09T00:36:35.691+0000] {processor.py:186} INFO - Started process (PID=23151) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:36:35.694+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:36:35.697+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:36:35.696+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:36:35.731+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:36:35.771+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:36:35.771+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:36:35.790+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:36:35.790+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:36:35.803+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.127 seconds
+[2024-09-09T00:37:06.664+0000] {processor.py:186} INFO - Started process (PID=23187) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:37:06.668+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:37:06.672+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:37:06.671+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:37:06.717+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:37:06.754+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:37:06.754+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:37:06.788+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:37:06.788+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:37:06.803+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.151 seconds
+[2024-09-09T00:37:36.940+0000] {processor.py:186} INFO - Started process (PID=23223) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:37:36.946+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:37:36.953+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:37:36.952+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:37:36.980+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:37:37.027+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:37:37.027+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:37:37.048+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:37:37.048+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:37:37.078+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.163 seconds
+[2024-09-09T00:38:08.130+0000] {processor.py:186} INFO - Started process (PID=23259) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:38:08.134+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:38:08.137+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:38:08.136+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:38:08.201+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:38:08.246+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:38:08.246+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:38:08.268+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:38:08.268+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:38:08.294+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.188 seconds
+[2024-09-09T00:38:39.224+0000] {processor.py:186} INFO - Started process (PID=23295) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:38:39.228+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:38:39.244+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:38:39.243+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:38:39.274+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:38:39.337+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:38:39.337+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:38:39.360+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:38:39.360+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:38:39.373+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.163 seconds
+[2024-09-09T00:39:10.263+0000] {processor.py:186} INFO - Started process (PID=23331) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:39:10.270+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:39:10.284+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:39:10.281+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:39:10.317+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:39:10.372+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:39:10.371+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:39:10.398+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:39:10.398+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:39:10.421+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.173 seconds
+[2024-09-09T00:39:41.180+0000] {processor.py:186} INFO - Started process (PID=23367) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:39:41.185+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:39:41.193+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:39:41.192+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:39:41.237+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:39:41.278+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:39:41.278+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:39:41.298+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:39:41.297+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:39:41.311+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.162 seconds
+[2024-09-09T00:40:12.246+0000] {processor.py:186} INFO - Started process (PID=23404) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:40:12.250+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:40:12.258+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:40:12.256+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:40:12.294+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:40:12.345+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:40:12.345+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:40:12.366+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:40:12.366+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:40:12.389+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.162 seconds
+[2024-09-09T00:40:42.869+0000] {processor.py:186} INFO - Started process (PID=23440) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:40:42.890+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:40:42.896+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:40:42.894+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:40:42.918+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:40:42.975+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:40:42.975+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:40:43.002+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:40:43.002+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:40:43.017+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.165 seconds
+[2024-09-09T00:41:14.053+0000] {processor.py:186} INFO - Started process (PID=23476) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:41:14.056+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:41:14.059+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:41:14.058+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:41:14.079+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:41:14.122+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:41:14.121+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:41:14.149+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:41:14.149+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:41:14.180+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.155 seconds
+[2024-09-09T00:41:44.312+0000] {processor.py:186} INFO - Started process (PID=23512) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:41:44.316+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:41:44.320+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:41:44.319+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:41:44.360+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:41:44.436+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:41:44.435+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:41:44.459+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:41:44.459+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:41:44.472+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.172 seconds
+[2024-09-09T00:42:15.219+0000] {processor.py:186} INFO - Started process (PID=23548) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:42:15.223+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:42:15.226+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:42:15.225+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:42:15.248+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:42:15.290+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:42:15.289+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:42:15.309+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:42:15.309+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:42:15.340+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.155 seconds
+[2024-09-09T00:42:45.493+0000] {processor.py:186} INFO - Started process (PID=23584) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:42:45.497+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:42:45.499+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:42:45.499+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:42:45.516+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:42:45.541+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:42:45.541+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:42:45.558+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:42:45.558+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:42:45.578+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.111 seconds
+[2024-09-09T00:43:16.346+0000] {processor.py:186} INFO - Started process (PID=23620) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:43:16.350+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:43:16.354+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:43:16.353+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:43:16.371+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:43:16.426+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:43:16.426+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:43:16.451+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:43:16.450+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:43:16.464+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.140 seconds
+[2024-09-09T00:43:47.383+0000] {processor.py:186} INFO - Started process (PID=23656) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:43:47.386+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:43:47.394+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:43:47.393+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:43:47.418+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:43:47.461+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:43:47.461+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:43:47.482+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:43:47.482+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:43:47.496+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.122 seconds
+[2024-09-09T00:44:18.499+0000] {processor.py:186} INFO - Started process (PID=23692) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:44:18.511+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:44:18.522+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:44:18.521+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:44:18.546+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:44:18.593+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:44:18.593+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:44:18.646+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:44:18.646+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:44:18.672+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.189 seconds
+[2024-09-09T00:44:49.558+0000] {processor.py:186} INFO - Started process (PID=23727) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:44:49.565+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:44:49.572+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:44:49.570+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:44:49.606+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:44:49.643+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:44:49.643+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:44:49.664+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:44:49.664+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:44:49.686+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.153 seconds
+[2024-09-09T00:45:20.651+0000] {processor.py:186} INFO - Started process (PID=23763) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:45:20.655+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:45:20.658+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:45:20.657+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:45:20.701+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:45:20.732+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:45:20.732+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:45:20.751+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:45:20.751+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:45:20.776+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.135 seconds
+[2024-09-09T00:45:51.517+0000] {processor.py:186} INFO - Started process (PID=23800) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:45:51.520+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:45:51.523+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:45:51.522+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:45:51.558+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:45:51.598+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:45:51.597+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:45:51.619+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:45:51.619+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:45:51.632+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.142 seconds
+[2024-09-09T00:46:21.745+0000] {processor.py:186} INFO - Started process (PID=23836) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:46:21.748+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:46:21.754+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:46:21.752+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:46:21.784+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:46:21.829+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:46:21.828+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:46:21.849+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:46:21.849+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:46:21.862+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.126 seconds
+[2024-09-09T00:46:52.794+0000] {processor.py:186} INFO - Started process (PID=23872) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:46:52.798+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:46:52.801+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:46:52.800+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:46:52.844+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:46:52.874+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:46:52.874+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:46:52.902+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:46:52.902+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:46:52.915+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.142 seconds
+[2024-09-09T00:47:23.907+0000] {processor.py:186} INFO - Started process (PID=23907) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:47:23.913+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:47:23.923+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:47:23.921+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:47:23.962+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:47:24.013+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:47:24.012+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:47:24.033+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:47:24.033+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:47:24.054+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.162 seconds
+[2024-09-09T00:47:54.243+0000] {processor.py:186} INFO - Started process (PID=23943) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:47:54.248+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:47:54.252+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:47:54.251+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:47:54.291+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:47:54.324+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:47:54.324+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:47:54.343+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:47:54.343+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:47:54.356+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.138 seconds
+[2024-09-09T00:48:25.065+0000] {processor.py:186} INFO - Started process (PID=23979) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:48:25.100+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:48:25.113+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:48:25.112+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:48:25.163+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:48:25.206+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:48:25.205+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:48:25.227+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:48:25.227+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:48:25.243+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.191 seconds
+[2024-09-09T00:48:56.084+0000] {processor.py:186} INFO - Started process (PID=24015) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:48:56.087+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:48:56.089+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:48:56.089+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:48:56.126+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:48:56.155+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:48:56.155+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:48:56.177+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:48:56.176+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:48:56.190+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.119 seconds
+[2024-09-09T00:49:27.207+0000] {processor.py:186} INFO - Started process (PID=24051) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:49:27.210+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:49:27.216+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:49:27.213+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:49:27.253+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:49:27.301+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:49:27.301+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:49:27.322+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:49:27.322+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:49:27.334+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.143 seconds
+[2024-09-09T00:49:57.467+0000] {processor.py:186} INFO - Started process (PID=24087) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:49:57.471+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:49:57.474+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:49:57.473+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:49:57.515+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:49:57.562+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:49:57.561+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:49:57.582+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:49:57.582+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:49:57.596+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.142 seconds
+[2024-09-09T00:50:28.309+0000] {processor.py:186} INFO - Started process (PID=24123) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:50:28.311+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:50:28.314+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:50:28.313+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:50:28.325+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:50:28.352+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:50:28.352+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:50:28.391+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:50:28.391+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:50:28.406+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.105 seconds
+[2024-09-09T00:50:59.105+0000] {processor.py:186} INFO - Started process (PID=24159) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:50:59.109+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:50:59.123+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:50:59.118+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:50:59.145+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:50:59.189+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:50:59.189+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:50:59.211+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:50:59.211+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:50:59.224+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.133 seconds
+[2024-09-09T00:51:30.035+0000] {processor.py:186} INFO - Started process (PID=24195) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:51:30.039+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:51:30.042+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:51:30.042+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:51:30.064+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:51:30.109+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:51:30.109+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:51:30.142+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:51:30.142+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:51:30.162+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.156 seconds
+[2024-09-09T00:52:00.947+0000] {processor.py:186} INFO - Started process (PID=24232) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:52:00.955+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:52:00.959+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:52:00.959+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:52:00.993+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:52:01.047+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:52:01.046+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:52:01.069+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:52:01.069+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:52:01.083+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.151 seconds
+[2024-09-09T00:52:31.914+0000] {processor.py:186} INFO - Started process (PID=24268) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:52:31.919+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:52:31.923+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:52:31.921+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:52:31.962+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:52:32.008+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:52:32.007+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:52:32.028+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:52:32.028+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:52:32.041+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.143 seconds
+[2024-09-09T00:53:02.856+0000] {processor.py:186} INFO - Started process (PID=24304) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:53:02.859+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:53:02.862+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:53:02.861+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:53:02.897+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:53:02.930+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:53:02.930+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:53:02.959+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:53:02.959+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:53:02.972+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.145 seconds
+[2024-09-09T00:53:33.116+0000] {processor.py:186} INFO - Started process (PID=24340) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:53:33.119+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:53:33.121+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:53:33.121+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:53:33.168+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:53:33.208+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:53:33.208+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:53:33.237+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:53:33.236+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:53:33.249+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.144 seconds
+[2024-09-09T00:54:03.967+0000] {processor.py:186} INFO - Started process (PID=24376) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:54:03.972+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:54:03.974+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:54:03.973+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:54:04.002+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:54:04.041+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:54:04.041+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:54:04.059+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:54:04.059+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:54:04.072+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.115 seconds
+[2024-09-09T00:54:34.919+0000] {processor.py:186} INFO - Started process (PID=24412) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:54:34.922+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:54:34.924+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:54:34.923+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:54:34.940+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:54:34.986+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:54:34.986+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:54:35.006+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:54:35.006+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:54:35.020+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.109 seconds
+[2024-09-09T00:55:05.807+0000] {processor.py:186} INFO - Started process (PID=24449) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:55:05.810+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:55:05.813+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:55:05.813+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:55:05.848+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:55:05.894+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:55:05.894+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:55:05.915+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:55:05.915+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:55:05.927+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.140 seconds
+[2024-09-09T00:55:36.857+0000] {processor.py:186} INFO - Started process (PID=24485) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:55:36.860+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:55:36.863+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:55:36.862+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:55:36.883+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:55:36.909+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:55:36.909+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:55:36.944+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:55:36.944+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:55:36.959+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.111 seconds
+[2024-09-09T00:56:07.623+0000] {processor.py:186} INFO - Started process (PID=24521) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:56:07.626+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:56:07.631+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:56:07.630+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:56:07.663+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:56:07.695+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:56:07.695+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:56:07.725+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:56:07.725+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:56:07.742+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.127 seconds
+[2024-09-09T00:56:38.002+0000] {processor.py:186} INFO - Started process (PID=24557) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:56:38.015+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:56:38.020+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:56:38.020+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:56:38.050+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:56:38.099+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:56:38.099+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:56:38.120+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:56:38.120+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:56:38.134+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.149 seconds
+[2024-09-09T00:57:08.940+0000] {processor.py:186} INFO - Started process (PID=24593) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:57:08.943+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:57:08.947+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:57:08.946+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:57:09.000+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:57:09.043+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:57:09.043+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:57:09.066+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:57:09.066+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:57:09.079+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.153 seconds
+[2024-09-09T00:57:39.849+0000] {processor.py:186} INFO - Started process (PID=24629) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:57:39.853+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:57:39.857+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:57:39.856+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:57:39.899+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:57:39.939+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:57:39.939+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:57:39.966+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:57:39.966+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:57:39.979+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.150 seconds
+[2024-09-09T00:58:10.700+0000] {processor.py:186} INFO - Started process (PID=24665) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:58:10.707+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:58:10.716+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:58:10.715+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:58:10.741+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:58:10.782+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:58:10.782+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:58:10.802+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:58:10.802+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:58:10.815+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.143 seconds
+[2024-09-09T00:58:41.700+0000] {processor.py:186} INFO - Started process (PID=24707) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:58:41.704+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:58:41.707+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:58:41.707+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:58:41.732+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:58:41.771+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:58:41.771+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:58:41.791+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:58:41.791+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:58:41.803+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.136 seconds
+[2024-09-09T00:59:12.545+0000] {processor.py:186} INFO - Started process (PID=24743) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:59:12.548+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:59:12.551+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:59:12.550+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:59:12.591+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:59:12.636+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:59:12.636+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:59:12.658+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:59:12.658+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:59:12.671+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.135 seconds
+[2024-09-09T00:59:43.753+0000] {processor.py:186} INFO - Started process (PID=24779) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:59:43.759+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T00:59:43.762+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:59:43.762+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:59:43.786+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T00:59:43.831+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:59:43.831+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T00:59:43.859+0000] {logging_mixin.py:190} INFO - [2024-09-09T00:59:43.859+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T00:59:43.898+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.180 seconds
+[2024-09-09T01:00:14.854+0000] {processor.py:186} INFO - Started process (PID=24818) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T01:00:14.857+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T01:00:14.860+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:00:14.860+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T01:00:14.886+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T01:00:14.927+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:00:14.926+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T01:00:14.946+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:00:14.946+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T01:00:14.958+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.124 seconds
+[2024-09-09T01:00:45.899+0000] {processor.py:186} INFO - Started process (PID=24854) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T01:00:45.903+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T01:00:45.905+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:00:45.905+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T01:00:45.933+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T01:00:45.964+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:00:45.964+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T01:00:45.984+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:00:45.984+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T01:00:46.000+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.116 seconds
+[2024-09-09T01:01:16.911+0000] {processor.py:186} INFO - Started process (PID=24890) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T01:01:16.914+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T01:01:16.924+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:01:16.917+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T01:01:17.076+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T01:01:17.140+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:01:17.139+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T01:01:17.198+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:01:17.197+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T01:01:17.238+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.384 seconds
+[2024-09-09T01:01:48.243+0000] {processor.py:186} INFO - Started process (PID=24926) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T01:01:48.246+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T01:01:48.249+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:01:48.249+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T01:01:48.283+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T01:01:48.316+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:01:48.316+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T01:01:48.336+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:01:48.336+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T01:01:48.357+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.149 seconds
+[2024-09-09T01:02:18.684+0000] {processor.py:186} INFO - Started process (PID=24962) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T01:02:18.690+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T01:02:18.704+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:02:18.702+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T01:02:18.735+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T01:02:18.781+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:02:18.781+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T01:02:18.800+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:02:18.800+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T01:02:18.826+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.157 seconds
+[2024-09-09T01:02:49.683+0000] {processor.py:186} INFO - Started process (PID=24998) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T01:02:49.687+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T01:02:49.692+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:02:49.691+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T01:02:49.729+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T01:02:49.760+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:02:49.759+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T01:02:49.788+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:02:49.788+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T01:02:49.803+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.132 seconds
+[2024-09-09T01:03:20.549+0000] {processor.py:186} INFO - Started process (PID=25034) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T01:03:20.553+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T01:03:20.561+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:03:20.559+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T01:03:20.593+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T01:03:20.641+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:03:20.640+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T01:03:20.660+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:03:20.660+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T01:03:20.672+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.137 seconds
+[2024-09-09T01:03:51.524+0000] {processor.py:186} INFO - Started process (PID=25071) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T01:03:51.527+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T01:03:51.529+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:03:51.529+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T01:03:51.568+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T01:03:51.604+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:03:51.603+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T01:03:51.627+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:03:51.626+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T01:03:51.652+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.140 seconds
+[2024-09-09T01:04:22.219+0000] {processor.py:186} INFO - Started process (PID=25107) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T01:04:22.226+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T01:04:22.233+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:04:22.232+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T01:04:22.272+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T01:04:22.321+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:04:22.321+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T01:04:22.342+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:04:22.342+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T01:04:22.355+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.151 seconds
+[2024-09-09T01:04:53.199+0000] {processor.py:186} INFO - Started process (PID=25143) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T01:04:53.206+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T01:04:53.278+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:04:53.276+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T01:04:53.320+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T01:04:53.356+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:04:53.356+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T01:04:53.379+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:04:53.379+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T01:04:53.402+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.215 seconds
+[2024-09-09T01:05:24.073+0000] {processor.py:186} INFO - Started process (PID=25179) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T01:05:24.080+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T01:05:24.087+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:05:24.085+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T01:05:24.126+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T01:05:24.188+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:05:24.188+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T01:05:24.213+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:05:24.213+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T01:05:24.230+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.173 seconds
+[2024-09-09T01:05:54.941+0000] {processor.py:186} INFO - Started process (PID=25215) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T01:05:54.945+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T01:05:54.949+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:05:54.948+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T01:05:54.987+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T01:05:55.019+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:05:55.019+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T01:05:55.050+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:05:55.050+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T01:05:55.063+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.149 seconds
+[2024-09-09T01:06:25.212+0000] {processor.py:186} INFO - Started process (PID=25251) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T01:06:25.216+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T01:06:25.219+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:06:25.219+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T01:06:25.258+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T01:06:25.307+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:06:25.307+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T01:06:25.330+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:06:25.330+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T01:06:25.355+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.158 seconds
+[2024-09-09T01:06:56.146+0000] {processor.py:186} INFO - Started process (PID=25287) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T01:06:56.150+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T01:06:56.153+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:06:56.152+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T01:06:56.203+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T01:06:56.249+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:06:56.249+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T01:06:56.275+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:06:56.275+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T01:06:56.288+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.159 seconds
+[2024-09-09T01:07:27.321+0000] {processor.py:186} INFO - Started process (PID=25323) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T01:07:27.326+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T01:07:27.349+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:07:27.344+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T01:07:27.403+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T01:07:27.457+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:07:27.457+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T01:07:27.485+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:07:27.485+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T01:07:27.502+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.211 seconds
+[2024-09-09T01:07:57.626+0000] {processor.py:186} INFO - Started process (PID=25359) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T01:07:57.630+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T01:07:57.634+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:07:57.633+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T01:07:57.657+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T01:07:57.689+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:07:57.689+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T01:07:57.715+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:07:57.715+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T01:07:57.728+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.126 seconds
+[2024-09-09T01:08:28.624+0000] {processor.py:186} INFO - Started process (PID=25396) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T01:08:28.628+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T01:08:28.631+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:08:28.630+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T01:08:28.660+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T01:08:28.703+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:08:28.703+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T01:08:28.723+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:08:28.723+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T01:08:28.738+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.127 seconds
+[2024-09-09T01:08:59.515+0000] {processor.py:186} INFO - Started process (PID=25432) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T01:08:59.519+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T01:08:59.523+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:08:59.523+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T01:08:59.543+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T01:08:59.568+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:08:59.568+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T01:08:59.585+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:08:59.585+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T01:08:59.604+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.102 seconds
+[2024-09-09T01:09:30.463+0000] {processor.py:186} INFO - Started process (PID=25468) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T01:09:30.478+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T01:09:30.493+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:09:30.491+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T01:09:30.785+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T01:09:30.893+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:09:30.892+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T01:09:30.994+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:09:30.994+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T01:09:31.029+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.608 seconds
+[2024-09-09T01:10:02.004+0000] {processor.py:186} INFO - Started process (PID=25504) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T01:10:02.011+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T01:10:02.016+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:10:02.014+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T01:10:02.038+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T01:10:02.075+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:10:02.075+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T01:10:02.094+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:10:02.094+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T01:10:02.109+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.180 seconds
+[2024-09-09T01:10:32.877+0000] {processor.py:186} INFO - Started process (PID=25540) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T01:10:32.880+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T01:10:32.883+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:10:32.882+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T01:10:32.914+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T01:10:32.944+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:10:32.944+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T01:10:32.978+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:10:32.978+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T01:10:32.993+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.146 seconds
+[2024-09-09T01:11:03.251+0000] {processor.py:186} INFO - Started process (PID=25576) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T01:11:03.255+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T01:11:03.261+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:11:03.260+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T01:11:03.287+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T01:11:03.330+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:11:03.329+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T01:11:03.350+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:11:03.349+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T01:11:03.369+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.147 seconds
+[2024-09-09T01:11:33.664+0000] {processor.py:186} INFO - Started process (PID=25612) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T01:11:33.667+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T01:11:33.673+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:11:33.670+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T01:11:33.706+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T01:11:33.736+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:11:33.736+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T01:11:33.760+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:11:33.760+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T01:11:33.777+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.122 seconds
+[2024-09-09T01:12:04.457+0000] {processor.py:186} INFO - Started process (PID=25648) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T01:12:04.460+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T01:12:04.464+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:12:04.462+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T01:12:04.489+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T01:12:04.533+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:12:04.533+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T01:12:04.554+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:12:04.554+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T01:12:04.567+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.119 seconds
+[2024-09-09T01:12:35.002+0000] {processor.py:186} INFO - Started process (PID=25684) to work on /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T01:12:35.007+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag_with_con_expression.py for tasks to queue
+[2024-09-09T01:12:35.011+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:12:35.010+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T01:12:35.060+0000] {processor.py:925} INFO - DAG(s) 'dag_with_con_expression' retrieved from /opt/airflow/dags/dag_with_con_expression.py
+[2024-09-09T01:12:35.097+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:12:35.097+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T01:12:35.155+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:12:35.155+0000] {dag.py:4138} INFO - Setting next_dagrun for dag_with_con_expression to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T01:12:35.170+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag_with_con_expression.py took 0.183 seconds

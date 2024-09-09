@@ -1,0 +1,18 @@
+[2024-09-08T16:24:11.484+0000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2024-09-08T16:24:11.494+0000] {taskinstance.py:2603} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: hellow_world_etl.get_num1 manual__2024-09-08T16:24:10.261432+00:00 [queued]>
+[2024-09-08T16:24:11.500+0000] {taskinstance.py:2603} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: hellow_world_etl.get_num1 manual__2024-09-08T16:24:10.261432+00:00 [queued]>
+[2024-09-08T16:24:11.501+0000] {taskinstance.py:2856} INFO - Starting attempt 1 of 1
+[2024-09-08T16:24:11.509+0000] {taskinstance.py:2879} INFO - Executing <Task(_PythonDecoratedOperator): get_num1> on 2024-09-08 16:24:10.261432+00:00
+[2024-09-08T16:24:11.515+0000] {logging_mixin.py:190} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:70 DeprecationWarning: This process (pid=1310) is multi-threaded, use of fork() may lead to deadlocks in the child.
+[2024-09-08T16:24:11.516+0000] {standard_task_runner.py:104} INFO - Running: ['***', 'tasks', 'run', 'hellow_world_etl', 'get_num1', 'manual__2024-09-08T16:24:10.261432+00:00', '--job-id', '236', '--raw', '--subdir', 'DAGS_FOLDER/dag_with_taskflow_api.py', '--cfg-path', '/tmp/tmp8v82tpeb']
+[2024-09-08T16:24:11.518+0000] {standard_task_runner.py:72} INFO - Started process 1312 to run task
+[2024-09-08T16:24:11.519+0000] {standard_task_runner.py:105} INFO - Job 236: Subtask get_num1
+[2024-09-08T16:24:11.556+0000] {task_command.py:467} INFO - Running <TaskInstance: hellow_world_etl.get_num1 manual__2024-09-08T16:24:10.261432+00:00 [running]> on host 626f2e28dec2
+[2024-09-08T16:24:11.603+0000] {taskinstance.py:3122} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='hellow_world_etl' AIRFLOW_CTX_TASK_ID='get_num1' AIRFLOW_CTX_EXECUTION_DATE='2024-09-08T16:24:10.261432+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2024-09-08T16:24:10.261432+00:00'
+[2024-09-08T16:24:11.604+0000] {taskinstance.py:731} INFO - ::endgroup::
+[2024-09-08T16:24:11.606+0000] {python.py:240} INFO - Done. Returned value was: {'num1': 20, 'num2': 30}
+[2024-09-08T16:24:11.623+0000] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2024-09-08T16:24:11.625+0000] {taskinstance.py:352} INFO - Marking task as SUCCESS. dag_id=hellow_world_etl, task_id=get_num1, run_id=manual__2024-09-08T16:24:10.261432+00:00, execution_date=20240908T162410, start_date=20240908T162411, end_date=20240908T162411
+[2024-09-08T16:24:11.655+0000] {local_task_job_runner.py:261} INFO - Task exited with return code 0
+[2024-09-08T16:24:11.671+0000] {taskinstance.py:3891} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2024-09-08T16:24:11.674+0000] {local_task_job_runner.py:240} INFO - ::endgroup::
