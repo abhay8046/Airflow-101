@@ -1448,3 +1448,123 @@
 [2024-09-09T01:24:10.210+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:24:10.210+0000] {dag.py:3211} INFO - Sync 1 DAGs
 [2024-09-09T01:24:10.244+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:24:10.244+0000] {dag.py:4138} INFO - Setting next_dagrun for my_first_dag_v3 to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
 [2024-09-09T01:24:10.264+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/our_first_dag.py took 0.137 seconds
+[2024-09-09T01:30:06.382+0000] {processor.py:186} INFO - Started process (PID=26949) to work on /opt/airflow/dags/our_first_dag.py
+[2024-09-09T01:30:06.385+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/our_first_dag.py for tasks to queue
+[2024-09-09T01:30:06.388+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:30:06.387+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/our_first_dag.py
+[2024-09-09T01:30:06.407+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:30:06.407+0000] {baseoperator.py:140} WARNING - Implicitly converting 'retries' from '5' to int
+[2024-09-09T01:30:06.412+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:30:06.412+0000] {baseoperator.py:140} WARNING - Implicitly converting 'retries' from '5' to int
+[2024-09-09T01:30:06.414+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:30:06.414+0000] {baseoperator.py:140} WARNING - Implicitly converting 'retries' from '5' to int
+[2024-09-09T01:30:06.423+0000] {processor.py:925} INFO - DAG(s) 'my_first_dag_v3' retrieved from /opt/airflow/dags/our_first_dag.py
+[2024-09-09T01:30:06.563+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:30:06.562+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T01:30:06.583+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:30:06.583+0000] {dag.py:4138} INFO - Setting next_dagrun for my_first_dag_v3 to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T01:30:06.597+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/our_first_dag.py took 0.226 seconds
+[2024-09-09T01:30:36.758+0000] {processor.py:186} INFO - Started process (PID=26985) to work on /opt/airflow/dags/our_first_dag.py
+[2024-09-09T01:30:36.760+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/our_first_dag.py for tasks to queue
+[2024-09-09T01:30:36.762+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:30:36.762+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/our_first_dag.py
+[2024-09-09T01:30:36.775+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:30:36.775+0000] {baseoperator.py:140} WARNING - Implicitly converting 'retries' from '5' to int
+[2024-09-09T01:30:36.777+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:30:36.777+0000] {baseoperator.py:140} WARNING - Implicitly converting 'retries' from '5' to int
+[2024-09-09T01:30:36.778+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:30:36.778+0000] {baseoperator.py:140} WARNING - Implicitly converting 'retries' from '5' to int
+[2024-09-09T01:30:36.782+0000] {processor.py:925} INFO - DAG(s) 'my_first_dag_v3' retrieved from /opt/airflow/dags/our_first_dag.py
+[2024-09-09T01:30:36.801+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:30:36.801+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T01:30:36.814+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:30:36.814+0000] {dag.py:4138} INFO - Setting next_dagrun for my_first_dag_v3 to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T01:30:36.823+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/our_first_dag.py took 0.074 seconds
+[2024-09-09T01:31:07.548+0000] {processor.py:186} INFO - Started process (PID=27021) to work on /opt/airflow/dags/our_first_dag.py
+[2024-09-09T01:31:07.551+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/our_first_dag.py for tasks to queue
+[2024-09-09T01:31:07.555+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:31:07.553+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/our_first_dag.py
+[2024-09-09T01:31:07.569+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:31:07.568+0000] {baseoperator.py:140} WARNING - Implicitly converting 'retries' from '5' to int
+[2024-09-09T01:31:07.571+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:31:07.571+0000] {baseoperator.py:140} WARNING - Implicitly converting 'retries' from '5' to int
+[2024-09-09T01:31:07.573+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:31:07.572+0000] {baseoperator.py:140} WARNING - Implicitly converting 'retries' from '5' to int
+[2024-09-09T01:31:07.578+0000] {processor.py:925} INFO - DAG(s) 'my_first_dag_v3' retrieved from /opt/airflow/dags/our_first_dag.py
+[2024-09-09T01:31:07.600+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:31:07.600+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T01:31:07.615+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:31:07.615+0000] {dag.py:4138} INFO - Setting next_dagrun for my_first_dag_v3 to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T01:31:07.625+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/our_first_dag.py took 0.085 seconds
+[2024-09-09T01:31:38.414+0000] {processor.py:186} INFO - Started process (PID=27057) to work on /opt/airflow/dags/our_first_dag.py
+[2024-09-09T01:31:38.419+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/our_first_dag.py for tasks to queue
+[2024-09-09T01:31:38.421+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:31:38.421+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/our_first_dag.py
+[2024-09-09T01:31:38.433+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:31:38.433+0000] {baseoperator.py:140} WARNING - Implicitly converting 'retries' from '5' to int
+[2024-09-09T01:31:38.436+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:31:38.436+0000] {baseoperator.py:140} WARNING - Implicitly converting 'retries' from '5' to int
+[2024-09-09T01:31:38.437+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:31:38.437+0000] {baseoperator.py:140} WARNING - Implicitly converting 'retries' from '5' to int
+[2024-09-09T01:31:38.441+0000] {processor.py:925} INFO - DAG(s) 'my_first_dag_v3' retrieved from /opt/airflow/dags/our_first_dag.py
+[2024-09-09T01:31:38.460+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:31:38.460+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T01:31:38.473+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:31:38.473+0000] {dag.py:4138} INFO - Setting next_dagrun for my_first_dag_v3 to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T01:31:38.483+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/our_first_dag.py took 0.076 seconds
+[2024-09-09T01:32:09.336+0000] {processor.py:186} INFO - Started process (PID=27093) to work on /opt/airflow/dags/our_first_dag.py
+[2024-09-09T01:32:09.339+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/our_first_dag.py for tasks to queue
+[2024-09-09T01:32:09.342+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:32:09.342+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/our_first_dag.py
+[2024-09-09T01:32:09.353+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:32:09.353+0000] {baseoperator.py:140} WARNING - Implicitly converting 'retries' from '5' to int
+[2024-09-09T01:32:09.356+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:32:09.356+0000] {baseoperator.py:140} WARNING - Implicitly converting 'retries' from '5' to int
+[2024-09-09T01:32:09.357+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:32:09.357+0000] {baseoperator.py:140} WARNING - Implicitly converting 'retries' from '5' to int
+[2024-09-09T01:32:09.361+0000] {processor.py:925} INFO - DAG(s) 'my_first_dag_v3' retrieved from /opt/airflow/dags/our_first_dag.py
+[2024-09-09T01:32:09.380+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:32:09.380+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T01:32:09.394+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:32:09.394+0000] {dag.py:4138} INFO - Setting next_dagrun for my_first_dag_v3 to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T01:32:09.403+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/our_first_dag.py took 0.077 seconds
+[2024-09-09T01:32:40.171+0000] {processor.py:186} INFO - Started process (PID=27129) to work on /opt/airflow/dags/our_first_dag.py
+[2024-09-09T01:32:40.173+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/our_first_dag.py for tasks to queue
+[2024-09-09T01:32:40.176+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:32:40.175+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/our_first_dag.py
+[2024-09-09T01:32:40.185+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:32:40.185+0000] {baseoperator.py:140} WARNING - Implicitly converting 'retries' from '5' to int
+[2024-09-09T01:32:40.190+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:32:40.189+0000] {baseoperator.py:140} WARNING - Implicitly converting 'retries' from '5' to int
+[2024-09-09T01:32:40.192+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:32:40.192+0000] {baseoperator.py:140} WARNING - Implicitly converting 'retries' from '5' to int
+[2024-09-09T01:32:40.199+0000] {processor.py:925} INFO - DAG(s) 'my_first_dag_v3' retrieved from /opt/airflow/dags/our_first_dag.py
+[2024-09-09T01:32:40.231+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:32:40.231+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T01:32:40.251+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:32:40.251+0000] {dag.py:4138} INFO - Setting next_dagrun for my_first_dag_v3 to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T01:32:40.265+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/our_first_dag.py took 0.100 seconds
+[2024-09-09T01:33:11.196+0000] {processor.py:186} INFO - Started process (PID=27165) to work on /opt/airflow/dags/our_first_dag.py
+[2024-09-09T01:33:11.199+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/our_first_dag.py for tasks to queue
+[2024-09-09T01:33:11.201+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:33:11.200+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/our_first_dag.py
+[2024-09-09T01:33:11.213+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:33:11.213+0000] {baseoperator.py:140} WARNING - Implicitly converting 'retries' from '5' to int
+[2024-09-09T01:33:11.217+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:33:11.217+0000] {baseoperator.py:140} WARNING - Implicitly converting 'retries' from '5' to int
+[2024-09-09T01:33:11.219+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:33:11.219+0000] {baseoperator.py:140} WARNING - Implicitly converting 'retries' from '5' to int
+[2024-09-09T01:33:11.223+0000] {processor.py:925} INFO - DAG(s) 'my_first_dag_v3' retrieved from /opt/airflow/dags/our_first_dag.py
+[2024-09-09T01:33:11.248+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:33:11.248+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T01:33:11.267+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:33:11.266+0000] {dag.py:4138} INFO - Setting next_dagrun for my_first_dag_v3 to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T01:33:11.287+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/our_first_dag.py took 0.107 seconds
+[2024-09-09T01:33:41.573+0000] {processor.py:186} INFO - Started process (PID=27201) to work on /opt/airflow/dags/our_first_dag.py
+[2024-09-09T01:33:41.576+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/our_first_dag.py for tasks to queue
+[2024-09-09T01:33:41.578+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:33:41.578+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/our_first_dag.py
+[2024-09-09T01:33:41.606+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:33:41.605+0000] {baseoperator.py:140} WARNING - Implicitly converting 'retries' from '5' to int
+[2024-09-09T01:33:41.611+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:33:41.611+0000] {baseoperator.py:140} WARNING - Implicitly converting 'retries' from '5' to int
+[2024-09-09T01:33:41.613+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:33:41.613+0000] {baseoperator.py:140} WARNING - Implicitly converting 'retries' from '5' to int
+[2024-09-09T01:33:41.619+0000] {processor.py:925} INFO - DAG(s) 'my_first_dag_v3' retrieved from /opt/airflow/dags/our_first_dag.py
+[2024-09-09T01:33:41.670+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:33:41.670+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T01:33:41.689+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:33:41.689+0000] {dag.py:4138} INFO - Setting next_dagrun for my_first_dag_v3 to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T01:33:41.701+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/our_first_dag.py took 0.136 seconds
+[2024-09-09T01:34:12.710+0000] {processor.py:186} INFO - Started process (PID=27237) to work on /opt/airflow/dags/our_first_dag.py
+[2024-09-09T01:34:12.713+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/our_first_dag.py for tasks to queue
+[2024-09-09T01:34:12.715+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:34:12.714+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/our_first_dag.py
+[2024-09-09T01:34:12.727+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:34:12.726+0000] {baseoperator.py:140} WARNING - Implicitly converting 'retries' from '5' to int
+[2024-09-09T01:34:12.731+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:34:12.730+0000] {baseoperator.py:140} WARNING - Implicitly converting 'retries' from '5' to int
+[2024-09-09T01:34:12.731+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:34:12.731+0000] {baseoperator.py:140} WARNING - Implicitly converting 'retries' from '5' to int
+[2024-09-09T01:34:12.736+0000] {processor.py:925} INFO - DAG(s) 'my_first_dag_v3' retrieved from /opt/airflow/dags/our_first_dag.py
+[2024-09-09T01:34:12.773+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:34:12.773+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T01:34:12.796+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:34:12.796+0000] {dag.py:4138} INFO - Setting next_dagrun for my_first_dag_v3 to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T01:34:12.808+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/our_first_dag.py took 0.106 seconds
+[2024-09-09T01:34:43.692+0000] {processor.py:186} INFO - Started process (PID=27273) to work on /opt/airflow/dags/our_first_dag.py
+[2024-09-09T01:34:43.695+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/our_first_dag.py for tasks to queue
+[2024-09-09T01:34:43.697+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:34:43.697+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/our_first_dag.py
+[2024-09-09T01:34:43.707+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:34:43.707+0000] {baseoperator.py:140} WARNING - Implicitly converting 'retries' from '5' to int
+[2024-09-09T01:34:43.709+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:34:43.709+0000] {baseoperator.py:140} WARNING - Implicitly converting 'retries' from '5' to int
+[2024-09-09T01:34:43.710+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:34:43.710+0000] {baseoperator.py:140} WARNING - Implicitly converting 'retries' from '5' to int
+[2024-09-09T01:34:43.714+0000] {processor.py:925} INFO - DAG(s) 'my_first_dag_v3' retrieved from /opt/airflow/dags/our_first_dag.py
+[2024-09-09T01:34:43.736+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:34:43.736+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T01:34:43.750+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:34:43.749+0000] {dag.py:4138} INFO - Setting next_dagrun for my_first_dag_v3 to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T01:34:43.758+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/our_first_dag.py took 0.075 seconds
+[2024-09-09T01:35:14.448+0000] {processor.py:186} INFO - Started process (PID=27310) to work on /opt/airflow/dags/our_first_dag.py
+[2024-09-09T01:35:14.451+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/our_first_dag.py for tasks to queue
+[2024-09-09T01:35:14.453+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:35:14.452+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/our_first_dag.py
+[2024-09-09T01:35:14.469+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:35:14.468+0000] {baseoperator.py:140} WARNING - Implicitly converting 'retries' from '5' to int
+[2024-09-09T01:35:14.474+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:35:14.473+0000] {baseoperator.py:140} WARNING - Implicitly converting 'retries' from '5' to int
+[2024-09-09T01:35:14.475+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:35:14.475+0000] {baseoperator.py:140} WARNING - Implicitly converting 'retries' from '5' to int
+[2024-09-09T01:35:14.480+0000] {processor.py:925} INFO - DAG(s) 'my_first_dag_v3' retrieved from /opt/airflow/dags/our_first_dag.py
+[2024-09-09T01:35:14.506+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:35:14.506+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T01:35:14.523+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:35:14.523+0000] {dag.py:4138} INFO - Setting next_dagrun for my_first_dag_v3 to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T01:35:14.535+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/our_first_dag.py took 0.098 seconds
+[2024-09-09T01:35:44.629+0000] {processor.py:186} INFO - Started process (PID=27346) to work on /opt/airflow/dags/our_first_dag.py
+[2024-09-09T01:35:44.633+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/our_first_dag.py for tasks to queue
+[2024-09-09T01:35:44.635+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:35:44.635+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/our_first_dag.py
+[2024-09-09T01:35:44.646+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:35:44.646+0000] {baseoperator.py:140} WARNING - Implicitly converting 'retries' from '5' to int
+[2024-09-09T01:35:44.649+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:35:44.648+0000] {baseoperator.py:140} WARNING - Implicitly converting 'retries' from '5' to int
+[2024-09-09T01:35:44.650+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:35:44.650+0000] {baseoperator.py:140} WARNING - Implicitly converting 'retries' from '5' to int
+[2024-09-09T01:35:44.654+0000] {processor.py:925} INFO - DAG(s) 'my_first_dag_v3' retrieved from /opt/airflow/dags/our_first_dag.py
+[2024-09-09T01:35:44.673+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:35:44.673+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T01:35:44.688+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:35:44.688+0000] {dag.py:4138} INFO - Setting next_dagrun for my_first_dag_v3 to 2024-09-09 00:00:00+00:00, run_after=2024-09-10 00:00:00+00:00
+[2024-09-09T01:35:44.702+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/our_first_dag.py took 0.080 seconds
