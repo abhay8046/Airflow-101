@@ -30,7 +30,7 @@ with DAG(
     )
     task3=BashOperator(
         task_id='third_task',
-        bash_command="echo Yo I am task3"
+        bash_command="echo Yo I am third task"
     )
    #task dependency 1
    # task1.set_downstream(task2)

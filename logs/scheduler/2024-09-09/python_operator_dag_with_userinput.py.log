@@ -992,3 +992,10 @@
 [2024-09-09T01:12:35.239+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:12:35.238+0000] {dag.py:3211} INFO - Sync 1 DAGs
 [2024-09-09T01:12:35.253+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:12:35.253+0000] {dag.py:4138} INFO - Setting next_dagrun for user_input_2sum to 2024-09-09 01:00:00+00:00, run_after=2024-09-09 02:00:00+00:00
 [2024-09-09T01:12:35.264+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/python_operator_dag_with_userinput.py took 0.062 seconds
+[2024-09-09T01:23:54.208+0000] {processor.py:186} INFO - Started process (PID=26490) to work on /opt/airflow/dags/python_operator_dag_with_userinput.py
+[2024-09-09T01:23:54.209+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/python_operator_dag_with_userinput.py for tasks to queue
+[2024-09-09T01:23:54.211+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:23:54.211+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/python_operator_dag_with_userinput.py
+[2024-09-09T01:23:54.223+0000] {processor.py:925} INFO - DAG(s) 'user_input_2sum' retrieved from /opt/airflow/dags/python_operator_dag_with_userinput.py
+[2024-09-09T01:23:54.262+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:23:54.262+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-09T01:23:54.305+0000] {logging_mixin.py:190} INFO - [2024-09-09T01:23:54.305+0000] {dag.py:4138} INFO - Setting next_dagrun for user_input_2sum to 2024-09-09 01:00:00+00:00, run_after=2024-09-09 02:00:00+00:00
+[2024-09-09T01:23:54.320+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/python_operator_dag_with_userinput.py took 0.118 seconds
