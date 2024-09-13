@@ -5,7 +5,7 @@ from airflow.operators.python import PythonOperator
 default_args={
     'owner':'Abhay',
     'retries':2,
-    'retry_delay':timedelta(minutes=2)
+    'retry_delay':timedelta(minutes=5)
 }
 
 def prints(cmd):
